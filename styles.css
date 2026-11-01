@@ -1,7 +1,17 @@
 body {
-  background-color: lightblue;
+  background-image: linear-gradient(to bottom, lightblue, hotpink);
+
 }
 
 * {
   font-family: Helvetica;
+}
+
+button {
+  border-radius: 15%;
+  background-color: lightblue;
+}
+
+#jonkler {
+  height: 555px;
 }
